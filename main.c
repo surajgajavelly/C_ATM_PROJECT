@@ -74,7 +74,7 @@
                         printf("Enter the new pin : ");
                         scanf("%d", &new_pin);
                         pin = new_pin;
-                        printf("🤖 Perfect! The pin has been successfully changed.");
+                        printf("🤖 Perfect! The pin has been successfully changed ✅.");
                     }
                     else
                     {
