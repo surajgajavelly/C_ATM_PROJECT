@@ -23,7 +23,7 @@
                 printf("🤖 We are in the main menu right now.\n");
             printf("======= MAIN MENU ======= \n 1. Check balance\n 2. Withdrawal\n 3. Change PIN\n 4. Deposit\n 5. EXIT🚪\n");
 
-            printf("🤖 Select any one.\n");
+            printf("🤖 Select any one:\n");
             scanf("%d", &chose);
 
             switch(chose)
